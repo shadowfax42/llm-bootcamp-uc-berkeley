@@ -49,15 +49,6 @@ The curriculum is designed to walk participants through the full lifecycle of an
 - ✅ A full-stack deployment using serverless tooling and embeddings
 
 
-## 📌 Goals Going Forward
-
-* Explore open-weight LLMs via fine-tuning or LoRA
-* Extend askFSDL into a domain-specific assistant
-* Integrate LangChain + Weaviate for scalable RAG demos
-* Apply LLMOps best practices into my current projects
-
----
-
 ## 🔗 Resources
 
 * [FSDL LLM Bootcamp Home](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
